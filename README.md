@@ -96,11 +96,11 @@ jupyter notebook wine_quality_classification.ipynb
 
 ## 📁 Project Structure
 
-wine-quality-classification/
-├── wine_quality_classification.ipynb  # Main Jupyter notebook
-├── wine_dataset.csv                   # Dataset file
-├── requirements.txt                   # Python dependencies
-└── README.md                          # Project documentation
+- wine-quality-classification/
+- ├── wine_quality_classification.ipynb  # Main Jupyter notebook
+- ├── wine_dataset.csv                   # Dataset file
+- ├── requirements.txt                   # Python dependencies
+- └── README.md                          # Project documentation
 
 ---
 
